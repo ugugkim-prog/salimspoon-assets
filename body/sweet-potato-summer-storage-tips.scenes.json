@@ -1,0 +1,17 @@
+[
+ {
+  "head": "상처 나거나 흠집 있는 고구마는 따로 두세요",
+  "prompt": "Close-up top-down photo on a wooden kitchen table: a small pile of raw sweet potatoes, several with visible bruises, soft dark spots, and small cuts on their skin, separated into a distinct group from a cluster of smooth unblemished sweet potatoes nearby. Soft natural daylight from a window falls at a low side angle, casting gentle shadows that highlight the texture and skin damage. Shot with a slightly shallow depth of field, realistic amateur home-kitchen photography style, no hands, no text.",
+  "alt": "흠집 나고 무른 부분이 있는 고구마들을 멀쩡한 고구마와 따로 분류해 놓은 모습"
+ },
+ {
+  "head": "신문지로 감싸 보관하는 순서",
+  "prompt": "Overhead photo of a Korean woman's hands at a kitchen table carefully wrapping a single raw sweet potato in a sheet of plain newspaper, mid-fold, with a few already-wrapped newspaper bundles and a few unwrapped sweet potatoes scattered around on the table surface. Warm indoor lighting from above, slightly angled to show the texture of the crumpled newspaper. Realistic candid home photography, focus on the hands and newspaper, no visible readable text in focus, no other text overlays.",
+  "alt": "고구마 한 개를 신문지로 감싸는 과정을 보여주는 손 클로즈업 사진"
+ },
+ {
+  "head": "여름철 고구마, 어디에 어떻게 둬야 오래갈까",
+  "prompt": "Wide-angle photo of a shaded, cool corner of a Korean kitchen floor near a pantry, showing a shallow wicker basket holding several raw sweet potatoes loosely covered with a thin cloth, placed away from direct sunlight and away from the stove. Soft diffused ambient light, slightly cool color tone suggesting a dim, ventilated indoor spot. Realistic lifestyle home photography angle, shot from slightly above and to the side, no people, no text.",
+  "alt": "여름철 고구마를 서늘하고 그늘진 부엌 구석 바구니에 천으로 덮어 보관하는 모습"
+ }
+]
