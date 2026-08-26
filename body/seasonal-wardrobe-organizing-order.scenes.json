@@ -1,0 +1,17 @@
+[
+ {
+  "head": "1단계, 옷 전부 꺼내서 분류하기",
+  "prompt": "A realistic candid photo taken from a high angle above a bedroom floor covered with a light beige rug, where a Korean woman in her 30s wearing a loose gray cardigan and jeans kneels and sorts clothes into three separate piles — folded knit sweaters, cotton t-shirts, and light jackets — soft natural window light coming from the left side in late afternoon, an open wardrobe with empty hangers visible in the background, shot on a slight diagonal angle with a shallow depth of field, looks like an unposed lifestyle snapshot taken with a phone camera",
+  "alt": "한국인 여성이 침실 러그 위에서 옷을 꺼내 소재별로 세 무더기로 분류하고 있는 모습"
+ },
+ {
+  "head": "3단계, 완전히 말린 뒤 넣기",
+  "prompt": "A realistic photo of a small apartment balcony in Korea, showing several knit sweaters and a wool coat laid flat on a mesh drying rack and draped over a foldable indoor drying stand, bright midday sunlight streaming through the balcony window creating soft shadows on the tiled floor, a small dehumidifier visible in the corner, shot from a slightly low angle looking across the balcony, natural unstaged home photography feel with visible wrinkles in the fabric showing they are still airing out",
+  "alt": "베란다에서 니트와 코트를 건조대에 펼쳐 완전히 말리고 있는 모습"
+ },
+ {
+  "head": "4단계, 소재별로 다르게 보관하기",
+  "prompt": "A realistic close-to-eye-level photo inside an open closet, showing clearly separated storage methods side by side — thick wool and cashmere sweaters folded and stacked inside a clear plastic storage box on the left, while silk blouses and delicate dresses hang on wooden hangers with visible garment spacing on the right, soft diffused ceiling light illuminating the closet interior, a small fabric-safe moisture absorber pouch tucked in the corner of the box, shot straight-on at chest height to show the contrast in storage methods, looks like an authentic home organization photo",
+  "alt": "울 니트는 박스에 개어 보관하고 실크 옷은 간격을 두어 옷걸이에 걸어 보관하는 옷장 내부 모습"
+ }
+]
