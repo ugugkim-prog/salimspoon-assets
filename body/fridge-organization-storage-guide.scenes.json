@@ -1,0 +1,17 @@
+[
+ {
+  "head": "냉장고 칸별 온도와 용도부터 알아두기",
+  "prompt": "Wide-angle eye-level photo looking straight into an open home refrigerator, shot from about one meter away in a bright Korean apartment kitchen. Soft natural daylight from a nearby window mixes with the fridge's internal white LED light. The shelves are realistically but not overly stocked: the top shelf holds a covered glass container of side dishes and a carton of milk, the middle shelf has yogurt cups and a bowl of leftover soup covered with plastic wrap, the bottom shelf near the back holds packaged raw meat on a small tray, and the door bins hold sauces and bottled water. No visible text, logos, or labels facing the camera. Slight condensation mist near the vents suggests cold air. Natural shallow depth of field, candid documentary food-blog style, slightly overexposed highlights typical of a phone photo taken in a kitchen.",
+  "alt": "냉장고 문을 열고 정면에서 촬영한 내부 모습, 칸마다 다른 음식들이 자연스럽게 담겨 있음"
+ },
+ {
+  "head": "채소칸(습도칸) 재료별 보관법",
+  "prompt": "Close three-quarter angle photo, camera tilted slightly downward, of an open refrigerator crisper drawer pulled halfway out. Inside, unwashed vegetables are loosely separated: a bunch of spinach and lettuce wrapped in a damp paper towel on one side, carrots and radishes with leafy tops still on in the middle, and a few tomatoes and cucumbers on the other side, all without any plastic packaging showing brand text. Cool white refrigerator light from above casts soft shadows between the vegetables, with a faint clean mist in the air suggesting humidity. Shot in a realistic Korean home kitchen setting, slightly grainy phone-camera texture, natural unstyled arrangement.",
+  "alt": "냉장고 채소칸 서랍을 열어 잎채소와 뿌리채소를 구분해 담아둔 모습"
+ },
+ {
+  "head": "육류·생선, 냉장 vs 냉동 기준과 소분 요령",
+  "prompt": "Overhead top-down photo of a Korean woman's hands, mid-30s, portioning raw meat on a wooden kitchen cutting board under warm afternoon window light. She is dividing a larger cut of pork into smaller flat piles, placing each portion into a clear zip-top freezer bag laid flat and pressing out the air with her palm; several already-sealed flat bags of meat and one bag of fish fillets are stacked beside her ready for the freezer, with no text or labels visible on the bags. A small stainless steel bowl and paper towel sit nearby. Natural soft daylight, candid home-cooking documentary style, faint blur on her hands suggesting motion.",
+  "alt": "한국인 여성이 도마 위에서 고기를 소분해 냉동용 지퍼백에 나눠 담는 모습"
+ }
+]
