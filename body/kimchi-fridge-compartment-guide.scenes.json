@@ -1,0 +1,17 @@
+[
+ {
+  "head": "칸별로 어떤 음식을 넣으면 좋을까",
+  "prompt": "A realistic photo taken from a slightly elevated front angle, showing a Korean woman's hands sliding open a wide kimchi refrigerator drawer in a home kitchen. Inside the drawer, several plastic and glass food containers of different sizes are neatly arranged side by side, filled with visible food like a whole radish, packaged tofu, and leafy greens, with no text or labels visible on any container. Soft, warm afternoon light comes from a nearby kitchen window, and a faint cold mist rises from the open drawer. Shallow depth of field with the containers in sharp focus and the kitchen background softly blurred.",
+  "alt": "김치냉장고 서랍을 열고 여러 음식 용기를 정리해 넣는 모습"
+ },
+ {
+  "head": "김치 종류별 보관 요령",
+  "prompt": "A realistic close-to-eye-level photo of an open kimchi refrigerator drawer filled with several clear and semi-clear plastic kimchi containers, each showing a different type of kimchi through the lid — bright red whole cabbage kimchi, a lighter white kimchi, and finely cut chopped kimchi — arranged in neat rows without any visible text or stickers. A Korean woman in a home apron reaches in with one hand to press down gently on one container lid. Cool bluish light from the refrigerator interior mixes with warm kitchen ambient light, natural shadows, slightly candid framing as if caught mid-motion.",
+  "alt": "김치 종류별로 담긴 용기들이 냉장고 서랍에 나란히 보관된 모습"
+ },
+ {
+  "head": "채소·과일칸 활용 팁",
+  "prompt": "A realistic photo shot from a top-down angle looking straight into an open vegetable and fruit drawer of a kimchi refrigerator, filled with fresh produce like whole cucumbers, carrots, a bundle of spinach, apples, and a couple of tangerines, loosely separated into sections without any bags showing text or price tags. A Korean woman's hand is placing a fresh cucumber into the drawer. Bright, clean daylight from an overhead kitchen light gives crisp natural colors to the produce, with slight condensation visible on the drawer's plastic edge.",
+  "alt": "채소와 과일을 구분해 넣은 냉장고 채소칸을 위에서 내려다본 모습"
+ }
+]
